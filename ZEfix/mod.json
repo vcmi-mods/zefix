@@ -1,14 +1,19 @@
 {
-	"name" : "ZEfix - Złota Edycja patch PL",
-	"description" : "Mod mający na celu korektę niedoróbek jednostek oraz banków jednostek powstałych przy tworzeniu polskiej Złotej Edycji. Bazuje na patchu Hellburna",
-	"version" : "1.0.0",
+	"name" : "ZEfix",
+	"description" : "Mod mający na celu korektę niedoróbek jednostek powstałych przy tworzeniu polskiej Złotej Edycji. Bazuje na patchu Hellburna",
+	"version" : "1.1.0",
 	"author" : "Kammer",
 	"contact" : "https://www.acidcave.net/",
 	"modType" : "Other",
 	"changelog" :
 	{
-		"1.00" : ["Initial release"]
+		"1.1.0" : ["Unlazined fixed to units"],
+		"1.0.0" : ["Initial release"]
 	},
+	"creatures" :
+    [
+        "config/creatures.json"
+    ],
 	"compatibility":
 	{
 		"min" : "1.2.0"

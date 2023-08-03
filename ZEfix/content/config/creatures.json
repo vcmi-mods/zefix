@@ -1,0 +1,55 @@
+{
+    "core:archangel":
+    {
+        "cost" : 
+		{
+			"wood" : 0,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"crystal" : 0,
+			"gems" : 3,
+			"gold" : 5000
+		},
+    },
+	"core:cerberus":
+	{
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 7
+		},
+	},
+	"core:lizardman":
+	{
+		"hitPoints" : 14,
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 3
+		},
+		"growth" : 9,
+	},
+	"core:lizardWarrior":
+	{
+		"attack" : 6,
+		"defense" : 8,
+		"hitPoints" : 15,
+		"damage" :
+		{
+			"min" : 2,
+			"max" : 5
+		},
+		"growth" : 9,
+	},
+	"core:serpentFly":
+	{
+		"attack" : 7,
+		"defense" : 9,
+	},
+	"core:fireDragonFly":
+	{
+		"attack" : 8,
+		"defense" : 10,
+	}
+}
