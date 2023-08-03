@@ -1,13 +1,14 @@
 {
 	"name" : "ZEfix",
 	"description" : "Mod mający na celu korektę niedoróbek jednostek powstałych przy tworzeniu polskiej Złotej Edycji. Bazuje na patchu Hellburna",
-	"version" : "1.1.0",
+	"version" : "1.1.1",
 	"author" : "Kammer",
 	"contact" : "https://www.acidcave.net/",
 	"modType" : "Other",
 	"changelog" :
 	{
-		"1.1.0" : ["Unlazined fixed to units"],
+		"1.1.1" : ["Now angels costs 3000 gold and one pile of gems"],
+		"1.1.0" : ["Unlazined units' fixes"],
 		"1.0.0" : ["Initial release"]
 	},
 	"creatures" :

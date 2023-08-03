@@ -1,4 +1,17 @@
 {
+	"core:angel":
+    {
+        "cost" : 
+		{
+			"wood" : 0,
+			"mercury" : 0,
+			"ore" : 0,
+			"sulfur" : 0,
+			"crystal" : 0,
+			"gems" : 1,
+			"gold" : 3000
+		},
+    },
     "core:archangel":
     {
         "cost" : 
