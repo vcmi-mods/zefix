@@ -1,23 +1,24 @@
 {
 	"name" : "ZEfix",
-	"description" : "Mod aimed at correcting the shortcomings of the units created during the creation of the Polish Golden Edition. It is based on the Hellburn patch",
-	"version" : "1.1.1",
-	"author" : "Kammer",
+	"description" : "Mod aimed at correcting the shortcomings of the units created during the creation of polish H3 editions, notably the Polish Gold Edition and polish GOG version. It is based on the Hellburn patch",
+	"version" : "1.1.2",
+	"author" : "Kammer, Dydzio",
 	"contact" : "https://www.acidcave.net/",
 	"modType" : "Other",
 	"changelog" :
 	{
+		"1.1.2" : ["Improved mod description, changed path to workaroud potential VCMI mods virtual filesystem issue where same relative paths from multiple mods result in shadowing mod files"],
 		"1.1.1" : ["Now angels costs 3000 gold and one pile of gems"],
 		"1.1.0" : ["Unlazined units' fixes"],
 		"1.0.0" : ["Initial release"]
 	},
 	"polish" : {
 		"name" : "ZEfix",
-		"description" : "Mod mający na celu korektę niedoróbek jednostek powstałych przy tworzeniu polskiej Złotej Edycji. Bazuje na patchu Hellburna"	
+		"description" : "Mod mający na celu korektę niedoróbek jednostek powstałych przy tworzeniu polskich wersji Heroes 3, głównie Złotej Edycji oraz polskiej wersji dostępnej na platformie GOG. Bazuje na patchu Hellburna"
 	},
 	"creatures" :
     [
-        "config/creatures.json"
+        "config/zefix/creatures.json"
     ],
 	"compatibility":
 	{
