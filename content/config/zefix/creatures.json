@@ -1,8 +1,6 @@
 {
-	"core:angel" :
-	{
-		"cost" :
-		{
+	"core:angel" : {
+		"cost" : {
 			"wood" : 0,
 			"mercury" : 0,
 			"ore" : 0,
@@ -11,11 +9,9 @@
 			"gems" : 1,
 			"gold" : 3000
 		}
-    },
-	"core:archangel" :
-	{
-		"cost" :
-		{
+	},
+	"core:archangel" : {
+		"cost" : {
 			"wood" : 0,
 			"mercury" : 0,
 			"ore" : 0,
@@ -25,44 +21,36 @@
 			"gold" : 5000
 		}
 	},
-	"core:cerberus" :
-	{
-		"damage" :
-		{
+	"core:cerberus" : {
+		"damage" : {
 			"min" : 2,
 			"max" : 7
 		}
 	},
-	"core:lizardman" :
-	{
+	"core:lizardman" : {
 		"hitPoints" : 14,
-		"damage" :
-		{
+		"damage" : {
 			"min" : 2,
 			"max" : 3
 		},
 		"growth" : 9
 	},
-	"core:lizardWarrior" :
-	{
+	"core:lizardWarrior" : {
 		"attack" : 6,
 		"defense" : 8,
 		"hitPoints" : 15,
-		"damage" :
-		{
+		"damage" : {
 			"min" : 2,
 			"max" : 5
 		},
 		"growth" : 9
 	},
-	"core:serpentFly" :
-	{
+	"core:serpentFly" : {
 		"attack" : 7,
 		"defense" : 9,
 		"aiValue" : 268
 	},
-	"core:fireDragonFly" :
-	{
+	"core:fireDragonFly" : {
 		"attack" : 8,
 		"defense" : 10,
 		"aiValue" : 312
